@@ -4,10 +4,10 @@
 
 ### 第一個作業PR(共10分)：
 
-+ 未準時PR，未完善使用MD&mdash;2分
-+ 準時PR，未完善使用MD&mdash;5分
-+ 未準時PR，完善使用MD&mdash;8分
-+ 準時PR，完善使用MD&mdash;10分
+- 未準時PR，未完善使用MD&mdash;2分
+- 準時PR，未完善使用MD&mdash;5分
+- 未準時PR，完善使用MD&mdash;8分
+- 準時PR，完善使用MD&mdash;10分
 
 > 作業繳交期限：**2017/01/06**。
 
