@@ -4,9 +4,9 @@
 
 ### 第一個作業PR(共10分)：
 
-- 未準時PR，未完善使用MD&mdash;2分
-- 準時PR，未完善使用MD&mdash;5分
-- 未準時PR，完善使用MD&mdash;8分
+- 未準時PR，未完善使用MD&mdash;2分
+- 準時PR，未完善使用MD&mdash;5分
+- 未準時PR，完善使用MD&mdash;8分
 - 準時PR，完善使用MD&mdash;10分
 
 > 作業繳交期限：**2017/01/06**。
@@ -17,7 +17,7 @@
 
 * 使用預設佈景主題，只git到page的branch&mdash;3分
 * 使用預設佈景主題，有git到master&mdash;5分
-* 使用新佈景主題，只git到page的branch&mdash;7分
+* 使用新佈景主題，只git到page的branch&mdash;7分
 * 使用新佈景主題，有git到master&mdash;10分
 
 > 作業繳交期限：**2017/01/12**。
