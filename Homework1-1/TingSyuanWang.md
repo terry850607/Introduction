@@ -45,8 +45,14 @@
 13. 塑膠射出工廠 品管師
 14. 菜市場糖果攤 工讀生
 
+## 證照
+
++ 電腦國際證照![ic3](http://i.imgur.com/5UsbPLg.jpg)
++ TQC 中文輸入專業證照
++ TQC 英文輸入專業證照
++ EPCIE 物聯網工程師證照
++ 醫療資訊管理師證照
+
 ## 得獎經驗
 
-+ 電腦國際證照![ic3](http://www.sciweavers.org/download/Tex2Img_1483159822.jpg)
-+ TQC 中文輸入專業證照
-+
+- 第八屆敦煌全國大專盃-英文書評競賽 進階組 佳作 [觀賞書評](http://www.cavesbooks.com.tw/bookreview8/images/page/B15.pdf)
