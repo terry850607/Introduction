@@ -19,7 +19,6 @@
 ### 聯絡資訊
 
 ##### Mail: [dtvgood202@gmail.com](mailto:dtvgood202@gmail.com)
-
 ##### Facebook: [Profile](https://www.facebook.com/dtvgood202)
 
 ## 教育背景
