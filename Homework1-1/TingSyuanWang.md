@@ -47,6 +47,6 @@
 
 ## 得獎經驗
 
-+ 電腦國際證照![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
++ 電腦國際證照![ic3](http://www.sciweavers.org/download/Tex2Img_1483159822.jpg)
 + TQC 中文輸入專業證照
 +
