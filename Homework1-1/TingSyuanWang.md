@@ -9,4 +9,5 @@
 
 ### 聯絡資訊
 
-:email:[dtvgood202@gmail.com](mailto:dtvgood202@gmail.com)
+Mail: [dtvgood202@gmail.com](mailto:dtvgood202@gmail.com)
+Facebook: [Profile](https://www.facebook.com/dtvgood202)
