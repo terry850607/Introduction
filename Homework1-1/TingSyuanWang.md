@@ -9,4 +9,4 @@
 
 ### 聯絡資訊
 
-:email::[dtvgood202@gmail.com](mailto:dtvgood202@gmail.com)
+:email:[dtvgood202@gmail.com](mailto:dtvgood202@gmail.com)
