@@ -9,8 +9,8 @@
 - 未準時PR，完善使用MD&mdash;8分
 - 準時PR，完善使用MD&mdash;10分
 
+#### 完善的條件
 ```
-**完善的條件**
 Headers、Emphasis、Lists、Images、Links、Blockquotes、Tables、Emoji
 ```
 
