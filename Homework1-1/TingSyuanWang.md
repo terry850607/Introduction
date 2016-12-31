@@ -91,30 +91,30 @@
 
 ![](http://i.imgur.com/4ke0tA3.png)
 
-### 2. 亞洲大學光通系雲端運算實驗室 :cloud:
+### 2. [亞洲大學光通系雲端運算實驗室](http://cloudcomputing.pcelab.info/) :cloud:
 
 ![](http://i.imgur.com/WfDyajI.png)
 
-### 3. 四育國中 :school:
+### 3. [四育國中](http://www.syjhs.tc.edu.tw/) :school:
 
 ![](http://i.imgur.com/56TGenK.png)
 
-### 4. 面板與LED就業學程 :bulb:
+### 4. [面板與LED就業學程](http://led.pcelab.info/) :bulb:
 
 ![](http://i.imgur.com/dgYBgE5.png)
 
-### 5. 亞洲大學 經營管理學系 :two_men_holding_hands:
+### 5. [亞洲大學 經營管理學系](http://dba.asia.edu.tw/) :two_men_holding_hands:
 
 ![](http://i.imgur.com/bHrUa2p.png)
 
-### 6. 福成石材-電視牆大理石花崗石專賣店 :moyai:
+### 6. [福成石材-電視牆大理石花崗石專賣店](http://www.fucheng-marble.com/) :moyai:
 
 ![](http://i.imgur.com/1XdqzN5.png)
 
-### 7. 大手牽小手・幸福向前走 :couple:
+### 7. [大手牽小手・幸福向前走](http://talk.asia.edu.tw/) :couple:
 
 ![](http://i.imgur.com/XlysIkZ.png)
 
-### 8. 全國中草藥不良反應系統 :pill:
+### 8. [全國中草藥不良反應系統](https://tcmadr.net/) :pill:
 
 ![](http://i.imgur.com/lreOUi8.png)
