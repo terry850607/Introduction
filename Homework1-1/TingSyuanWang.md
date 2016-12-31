@@ -5,3 +5,4 @@
 <i class="icon-cog"></i>
 
 😮
+/play secret
