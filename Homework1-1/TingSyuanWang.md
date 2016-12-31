@@ -7,9 +7,11 @@
 
 ### 聯絡資訊
 
+```
 ##### Mail: [dtvgood202@gmail.com](mailto:dtvgood202@gmail.com)
 
 ##### Facebook: [Profile](https://www.facebook.com/dtvgood202)
+```
 
 ## 教育背景
 
@@ -74,7 +76,6 @@
 
 ##  網站開發經驗
 
-```
 1. 【翻轉文學‧文學翻轉2.0 Asia University, Taiwan】
 2. 亞洲大學光通系雲端運算實驗室
 3. 四育國中
@@ -83,4 +84,3 @@
 6. 福成石材-電視牆大理石花崗石專賣店
 7. 大手牽小手・幸福向前走
 8. 全國中草藥不良反應系統
-```
