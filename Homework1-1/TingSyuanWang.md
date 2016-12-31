@@ -55,7 +55,7 @@
 
 ## 得獎經驗
 
-- 第八屆敦煌全國大專盃-英文書評競賽 進階組 佳作 [觀賞書評](http://www.cavesbooks.com.tw/bookreview8/images/page/B15.pdf)
+- 第八屆敦煌全國大專盃-英文書評競賽 進階組 佳作 [(觀賞書評)](http://www.cavesbooks.com.tw/bookreview8/images/page/B15.pdf)
 - 亞洲大學 傑出成就獎
 - 亞洲大學 外國語文學系畢業生代表
 - 亞洲大學 畢業校長獎
