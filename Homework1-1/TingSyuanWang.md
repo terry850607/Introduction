@@ -1,10 +1,8 @@
-## 自我介紹
+# 自我介紹
 
-### 我來自亞洲大學
+## 基本資料
+![avatar](https://avatars2.githubusercontent.com/u/8935531?v=3&s=460)
 
-<i class="icon-cog"></i>
-
-😮
-/play secret
-
-:negative_squared_cross_mark:
+|姓名|英文姓名|生日|
+|:-:|:-:|:-:|
+| 王霆瑄|Ting-Syuan Wang|西元1994年8月30日|
