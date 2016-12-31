@@ -48,3 +48,4 @@
 ## 得獎經驗
 
 + 電腦國際證照[IC3](http://www.sciweavers.org/tex2img.php?eq=IC%5E%7B3%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
++ 
