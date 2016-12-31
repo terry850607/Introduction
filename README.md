@@ -11,7 +11,7 @@
 
 #### 完善的條件
 ```
-Headers、Emphasis、Lists、Images、Links、Blockquotes、Tables、Emoji
+Headers、Emphasis、Lists、Images、Links、Blockquotes、Tables、Syntax highlighting、Emoji
 ```
 
 > 作業繳交期限：**2017/01/06**。
