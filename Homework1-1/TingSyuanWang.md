@@ -6,3 +6,7 @@
 |姓名|英文姓名|生日 :birthday: |
 |:-:|:-:|:-:|
 | 王霆瑄|Ting-Syuan Wang|西元1994年8月30日|
+
+### 聯絡資訊
+
+:e-mail::[dtvgood202@gmail.com](mailto:dtvgood202@gmail.com)
