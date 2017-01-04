@@ -34,3 +34,15 @@ Headers、Emphasis、Lists、Images、Links、Blockquotes、Tables、Syntax high
 - 範圍：ppt及上課全部內容(10分)。
 
 ***
+
+## 在本地端更新 Fork 的方法
+
+`git remote add upstream https://github.com/TingSyuanWang/Introduction.git`
+
+`git fetch upstream`
+
+`git checkout master`
+
+`git rebase upstream/master`
+
+`git push -f origin master`
